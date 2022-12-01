@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Thicccboi Black';
+  src: url('./assets/fonts/THICCCBOI-Black.ttf');
+}
+@font-face {
+  font-family: 'Thicccboi Bold';
+  src: url('./assets/fonts/THICCCBOI-Bold.ttf');
+}
+@font-face {
+  font-family: 'Thicccboi Medium';
+  src: url('./assets/fonts/THICCCBOI-Medium.ttf');
+}
+@font-face {
+  font-family: 'Thicccboi Regular';
+  src: url('./assets/fonts/THICCCBOI-Regular.ttf');
+}
+@font-face {
+  font-family: 'Thicccboi Light';
+  src: url('./assets/fonts/THICCCBOI-Light.ttf');
+}
+
+$font-thicccboi-black:'Thicccboi Black';
+$font-thicccboi-bold:'Thicccboi Bold';
+$font-thicccboi-medium:'Thicccboi Medium';
+$font-thicccboi-regular:'Thicccboi Regular';
+$font-thicccboi-light:'Thicccboi Light';
+
+$color-black:#0B141F;
+$color-pink-light:#FFFAE7;
+$color-green-light:#F0F9F5;
+$color-green-regular:#287E60;
+$color-green-bold:#1D4A35;
+$color-yellow:#FFD23C;
+$color-white:#FFFFFF;
+
+* {
+  font-family: $font-thicccboi-regular;
+}
